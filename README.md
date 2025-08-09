@@ -1,18 +1,9 @@
-# 🚀 Kaido Kit FilamentPhp Starter Code
+# 🚀 FilamentPhp Starter Code
 
-A powerful and opinionated FilamentPHP starter kit designed to accelerate your admin panel development. Kaido Kit provides a robust foundation with pre-configured plugins, configuration and best practices for building feature-rich admin interfaces.
-
-![GitHub stars](https://img.shields.io/github/stars/siubie/kaido-kit?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/siubie/kaido-kit?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/siubie/kaido-kit?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 ![PHP Version](https://img.shields.io/badge/PHP-8.2-blue?style=flat-square&logo=php)
 ![Laravel Version](https://img.shields.io/badge/Laravel-11.0-red?style=flat-square&logo=laravel)
 ![Filament Version](https://img.shields.io/badge/Filament-3.2-purple?style=flat-square)
-
-## Introduction Video
-
-[![Build FilamentPhp Apps 10x Faster | Custom Filament Starter Kit]]("Build FilamentPhp Apps 10x Faster | Custom Filament Starter Kit")
 
 ## ✨ Features
 
